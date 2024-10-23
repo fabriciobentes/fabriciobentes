@@ -18,7 +18,7 @@ Com sólida experiência em múltiplos ambientes operacionais, como Linux Ubuntu
 Adoro explorar novas ideias, colaborar em projetos inovadores e mergulhar em desafios complexos. Se você compartilha da paixão pela tecnologia e quer conversar sobre projetos, sinta-se à vontade para entrar em contato!
 
 
-[Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## 📊 GitHub Stats:
 
