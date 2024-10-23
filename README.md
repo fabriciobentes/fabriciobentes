@@ -1,6 +1,7 @@
 # Fabrício da Silva Bentes
 
-✨ Olá! Eu sou Fabrício, um entusiasta da tecnologia em constante evolução e atualmente cursando Ciência da Computação na Universidade Pitágoras Unopar Anhanguera. Minha jornada no universo da tecnologia tem como foco a programação em C, Python e o desenvolvimento de sistemas embarcados, áreas em que encontro a perfeita combinação entre lógica, inovação e eficiência.
+
+✨ Eu sou Fabrício, um entusiasta da tecnologia em constante evolução e atualmente cursando Ciência da Computação na Universidade Pitágoras Unopar Anhanguera. Minha jornada no universo da tecnologia tem como foco a programação em C, Python e o desenvolvimento de sistemas embarcados, áreas em que encontro a perfeita combinação entre lógica, inovação e eficiência.
 
 Com sólida experiência em múltiplos ambientes operacionais, como Linux Ubuntu, Hackintosh (macOS customizado), e Windows, venho integrando conhecimentos práticos de administração e otimização de sistemas com minhas paixões por automação e soluções criativas.
 
@@ -16,7 +17,8 @@ Com sólida experiência em múltiplos ambientes operacionais, como Linux Ubuntu
 
 Adoro explorar novas ideias, colaborar em projetos inovadores e mergulhar em desafios complexos. Se você compartilha da paixão pela tecnologia e quer conversar sobre projetos, sinta-se à vontade para entrar em contato!
 
----
+
+[Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 📊 GitHub Stats:
 
